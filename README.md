@@ -1,0 +1,10 @@
+-ls(LiSt)
+-pwd(PrintWorkingDirectory)
+-cd(ChangeDirectory)
+-mkdir(MaKeDIRectory)
+-touch
+-cp(CoPy)
+-mv(MoVe)
+-rm(ReMove)
+-cat(CATnate)
+-vi
